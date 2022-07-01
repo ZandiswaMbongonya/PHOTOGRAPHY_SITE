@@ -7,7 +7,7 @@
 - CSS
 - Git
 ## Live Demo
-[Live Demo Link]()
+[Live Demo Link](https://glittering-dieffenbachia-69590f.netlify.app/)
 ## Authors
 👤 **Zandiswa Mbongonya**
 -   Github: [@ZandiswaMbongonya](https://github.com/ZandiswaMbongonya)
